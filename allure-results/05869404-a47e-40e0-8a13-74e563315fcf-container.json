@@ -1,0 +1,1 @@
+{"uuid":"05869404-a47e-40e0-8a13-74e563315fcf","name":"com.NASA_test.api.tests.TestGetPhotos","children":["0fcef51e-3675-475a-bf84-9884a2ddf702"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1629864874497,"stop":1629864875835}],"afters":[],"links":[],"start":1629864874448,"stop":1629864880404}
