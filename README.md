@@ -18,7 +18,7 @@ NASA has an open API: https://api.nasa.gov/index.html#getting-started. It grants
 
 We would like to test different scenarios that the API offers:
 
-Retrieve the first 10 Mars photos made by "Curiosity" on 1000 Martian sol.
-Retrieve the first 10 Mars photos made by "Curiosity" on Earth date equal to 1000 Martian sol.
-Retrieve and compare the first 10 Mars photos made by "Curiosity" on 1000 sol and on Earth date equal to 1000 Martian sol.
-Validate that the amounts of pictures that each "Curiosity" camera took on 1000 Mars sol is not greater than 10 times the amount taken by other cameras on the same date.
+1) Retrieve the first 10 Mars photos made by "Curiosity" on 1000 Martian sol.
+2) Retrieve the first 10 Mars photos made by "Curiosity" on Earth date equal to 1000 Martian sol.
+3) Retrieve and compare the first 10 Mars photos made by "Curiosity" on 1000 sol and on Earth date equal to 1000 Martian sol.
+4) Validate that the amounts of pictures that each "Curiosity" camera took on 1000 Mars sol is not greater than 10 times the amount taken by other cameras on the same date.
