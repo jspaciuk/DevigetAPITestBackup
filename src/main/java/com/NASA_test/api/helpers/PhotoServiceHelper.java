@@ -96,7 +96,7 @@ public class PhotoServiceHelper {
      */
     public String getJsonPathQueryParamsByDateType(String dateType) {
         String jsonPath;
-        if (dateType.equals("sols"))
+        if (dateType.equals("sol"))
             jsonPath = JSON_PATH_SOL_NAME;
         else
             jsonPath = JSON_PATH_EARTH_VALUE;
